@@ -33,7 +33,7 @@ T transform_reduce(InputIt itr, InputIt last, T init, Red red, Trans trans) {
 
 
 //generate all positions clockwise 
-//moves function
+//move function
 
 	vector<pair<int, int>> moves (pair<int, int> pos){
 
