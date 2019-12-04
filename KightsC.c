@@ -46,10 +46,6 @@ pair_int_int operator+(const pair_int_int & a, const pair_int_int & b){
 
 }
 
-
-//template class that has not been figured out yet
-//TODO when needed
-
 //generate all positions needed
 
 pair_int_int * moves(const pair_int_int pos){
